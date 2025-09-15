@@ -46,13 +46,13 @@
       "ระบบคาสิโนที่ครบวงจร ให้ผู้เล่นได้เสี่ยงโชคกับเกมต่าง ๆ ทั้งสล็อตแมชชีนและโป๊กเกอร์",
     price: 2500,
     images: [],
-  }
-  // {
-  //   id: 7,
-  //   name: "Example System",
-  //   description:
-  //     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam debitis consequatur suscipit. Assumenda suscipit sint nobis, facere commodi quia beatae minus mollitia, libero quidem quos atque! Fugiat dolor repudiandae laudantium. Impedit soluta numquam unde, voluptatibus quos sequi id ipsum eaque, corrupti ex adipisci. Totam quod placeat tenetur cum provident sint.",
-  //   price: 9999,
-  //   images: [],
-  // },
-];
+  },
+  {
+    id: 7,
+    name: "Example System",
+    description:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam debitis consequatur suscipit. Assumenda suscipit sint nobis, facere commodi quia beatae minus mollitia, libero quidem quos atque! Fugiat dolor repudiandae laudantium. Impedit soluta numquam unde, voluptatibus quos sequi id ipsum eaque, corrupti ex adipisci. Totam quod placeat tenetur cum provident sint.",
+    price: 9999,
+    images: [],
+  },
+]
